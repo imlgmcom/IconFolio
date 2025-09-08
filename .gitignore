@@ -42,4 +42,5 @@ logs/
 .env.test.local
 .env.production.local
 
+# Local scripts
 githelper.ps1
